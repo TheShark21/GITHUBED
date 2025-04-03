@@ -10,4 +10,12 @@ package Ejercicio;
  */
 public class Calculadora {
     
+    public int sumar(int n, int m){
+        return m + n;
+    }
+    
+    public int restar(int n, int m){
+        return m - n;
+    }
+    
 }
